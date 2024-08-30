@@ -1,0 +1,11 @@
+{
+  "name": "shorts",
+  "dependencies": {
+    "@std/cli": "npm:@jsr/std__cli@1.0.0",
+    "@remotion/animation-utils": "4.0.201",
+    "@remotion/bundler": "^4.0.205",
+    "@remotion/layout-utils": "4.0.202",
+    "@remotion/media-utils": "4.0.202",
+    "@remotion/renderer": "^4.0.205"
+  }
+}
